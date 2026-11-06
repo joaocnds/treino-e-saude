@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Treino e Saúde",
+    "slug": "treino-e-saude",
+    "scheme": "treinoesaude",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router"
+    ],
+    "web": {
+      "bundler": "metro"
+    },
+    "android": {
+      "package": "com.etec.treinoesaude"
+    },
+    "ios": {
+      "bundleIdentifier": "com.etec.treinoesaude"
+    },
+    "userInterfaceStyle": "dark"
+  }
+}
